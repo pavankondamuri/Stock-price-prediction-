@@ -1,0 +1,1 @@
+lstm_model.save("saved_model.h5")
